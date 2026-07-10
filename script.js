@@ -98,6 +98,7 @@ document.addEventListener('DOMContentLoaded', function () {
       }
     }).mount();
   }
+   
 
   // Contact form demo submit
   var contactForm = document.getElementById('contactForm');
@@ -110,3 +111,4 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 });
+
